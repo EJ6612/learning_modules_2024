@@ -9,9 +9,5 @@ Python code that prints "Hello World!".
 *Git/GitHub
 
 # Useful Websites
-<<<<<<< HEAD:Hello World/HELLO README.md
 [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/sourcecontrol/github) 
 [Python 3.11 Library](https://docs.python.org/3.11/library/index.html)
-=======
-Previous experience
->>>>>>> d04dc0070ea63d6989279f11797df7aa6fd17edc:Hello World/README.md
